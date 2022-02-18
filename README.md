@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @valencyy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C/Python/JS
+- 👀 I’m interested in software dev
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : Ryysee#0001 on Discord
 
